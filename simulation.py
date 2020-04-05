@@ -1,6 +1,6 @@
 import socket
 import select
-from sailboat_github import *
+from sailboat import *
 
 hote = 'localhost'
 port = 12800
