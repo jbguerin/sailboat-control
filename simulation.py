@@ -12,7 +12,7 @@ print("Le serveur écoute à présent sur le port {}".format(port))
 serveur_lance = True
 clients_connectes = []
 
-# Variable pour la simulation
+# Variables pour la simulation
 dt = 0.1
 awind, ψ = 50, pi/2
 listex, listey = [], []
